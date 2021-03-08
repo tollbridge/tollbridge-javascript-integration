@@ -5,7 +5,7 @@
 
 ## Head
 
-Visit the **Integration** section of your Tollbridge admin account and copy the *Body* just below the `<body>` of your webpage.
+Visit the **Integration** section of your Tollbridge admin account and copy the *Head* section and add into the `<head>` of your webpage.
 
 ```text
 <meta name="tollbridge" content="1,2,3">
