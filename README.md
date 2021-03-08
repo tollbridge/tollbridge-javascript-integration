@@ -1,6 +1,6 @@
 # Tollbridge JavaScript Integration
 
-[Tollbridge](https://tollbridge.co) is a user-authentication, subscription and paywall software as a service. This documentation will help you to implement Tollbridge's JavaScript based authentication in your application in just a few minutes.
+[Tollbridge](https://tollbridge.co) is a user-authentication, subscription and paywall software as a service. This documentation will help you to implement Tollbridge's JavaScript based authentication into your application in just a few minutes.
 
 
 ## Head
